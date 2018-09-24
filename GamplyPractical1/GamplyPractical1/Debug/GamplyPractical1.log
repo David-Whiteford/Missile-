@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\programming\gamplypractical1\gamplypractical1\source.cpp(55): warning C4101: 'xPos': unreferenced local variable
+d:\programming\gamplypractical1\gamplypractical1\source.cpp(56): warning C4101: 'yPos': unreferenced local variable
+  GamplyPractical1.vcxproj -> D:\Programming\GamplyPractical1\Debug\GamplyPractical1.exe
